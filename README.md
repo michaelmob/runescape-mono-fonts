@@ -1,4 +1,4 @@
-# Old School RuneScape Fonts
+# Old School RuneScape Fonts in Mono
 
 [![downloads](https://img.shields.io/github/downloads/runestar/fonts/total.svg)](https://github.com/runestar/fonts/releases/latest)
 [![license](https://img.shields.io/github/license/runestar/fonts)](LICENSE)
